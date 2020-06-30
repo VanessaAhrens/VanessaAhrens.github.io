@@ -1,4 +1,13 @@
-# Jane Eyre - die bekannteste Heldin des viktorianischen Romans
+# Jane Eyre -
+## Die bekannteste Heldin des viktorianischen Romans
+
+* mutig
+* gebildet
+* integer
+* leidenschaftlich
+* bodenständig
+* loyal
+
 
 Die Erzählerin und Hauptperson Jane Eyre ist ein armes Waisenkind. Die ersten Kapitel handeln 
 vom Verlauf ihrer freudlosen Kindheit. Ihr reicher Onkel Mr. Reed auf Gateshead hatte versprochen, 
