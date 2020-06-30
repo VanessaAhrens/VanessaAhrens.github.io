@@ -1,6 +1,8 @@
 # Jane Eyre -
 ## Die bekannteste Heldin des viktorianischen Romans
 
+<img src="https://p5.focus.de/img/fotos/origs1294558/358356250-w630-h471-o-q75-p5/Film-Jane-Eyre-Mia-Wasikowska-ist-in-ihrer-heimlichen-Liebe-zu-Rochester-Michael-Fassbender-zerrissen.jpg"/>
+
 * mutig
 * gebildet
 * integer
