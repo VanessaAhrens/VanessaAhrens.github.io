@@ -26,3 +26,7 @@ Helen Burns ist gebildet, intelligent und sehr fromm. Sie erträgt die schwierig
 während Jane ihrer Wut manchmal nur schlecht Einhalt gebieten kann. Dazu passt die ruhige Ergebung, mit der sich die an Tuberkulose
 leidende Helen in ihr Schicksal ergibt, sie stirbt in Janes Armen, während viele andere Mädchen des Internats einer Typhus-Epidemie 
 zum Opfer fallen.
+
+Zitat:
+
+> Niemals werde ich mich aufgeben.
